@@ -130,3 +130,5 @@ dmypy.json
 
 # IDE meta folders
 .idea
+
+# Test
